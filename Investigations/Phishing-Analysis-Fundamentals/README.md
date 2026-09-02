@@ -61,14 +61,14 @@ This investigation documents my completion of the TryHackMe Phishing Analysis Fu
 - **Tactics:** Social engineering, attachment-based phishing
 - **MITRE ATT&CK Mapping:** T1566.001 (Spearphishing Attachment)
 
-## 📈 Key Takeaways
+##  Key Takeaways
 - Email headers contain critical forensic evidence
 - Authentication results (SPF, DKIM, DMARC) help verify email legitimacy
 - Base64 encoding is commonly used to hide malicious attachments
 - Multiple analysis tools should be used for validation
 - Always defang URLs in reports: `hxxp://` instead of `http://`
 
-## 📸 Screenshots
+##  Screenshots
 | Screenshot | Description |
 |------------|-------------|
 | [Raw Email Source](screenshots/1-raw-email-source.png) | Complete raw email headers |
@@ -77,7 +77,7 @@ This investigation documents my completion of the TryHackMe Phishing Analysis Fu
 | [CyberChef Decoding](screenshots/4-cyberchef-decoding.png) | Base64 decoding process |
 | [Decoded PDF](screenshots/5-decoded-pdf.png) | PDF structure confirmed |
 
-## 🚨 Indicators of Compromise (IOCs)
+##  Indicators of Compromise (IOCs)
 | Type | Indicator |
 |------|-----------|
 | Sender Email | newsletters@ant.anki-tech.com |
@@ -85,7 +85,7 @@ This investigation documents my completion of the TryHackMe Phishing Analysis Fu
 | Attachment Name | zmqpalgh.pdf |
 | PDF ID | <36C74F91D8307D4481492498DE25FCDB> |
 
-## 📚 References
+##  References
 - [TryHackMe Room](https://tryhackme.com/room/phishingemails1tryoe)
 - [Email Header Analysis Guide](https://www.cisco.com/c/en/us/about/security-center/email-header-analysis.html)
 - [MITRE ATT&CK: Spearphishing Attachment](https://attack.mitre.org/techniques/T1566/001/)
