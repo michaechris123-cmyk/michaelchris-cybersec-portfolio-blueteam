@@ -33,7 +33,7 @@ This investigation documents my completion of the TryHackMe Phishing Analysis Fu
 - Used CyberChef to decode obfuscated content
 - Used VirusTotal to check suspicious attachments
 
-## 📈 Key Takeaways
+##  Key Takeaways
 - Email headers contain critical forensic evidence
 - Authentication results (SPF, DKIM, DMARC) help verify email legitimacy
 - Multiple analysis tools should be used for validation
