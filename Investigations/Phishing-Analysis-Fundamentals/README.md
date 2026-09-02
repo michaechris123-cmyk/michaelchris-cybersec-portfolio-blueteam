@@ -1,9 +1,9 @@
 ### Phishing Analysis Fundamentals - Investigation Report
 
- Executive Summary
+ ## Executive Summary
 This investigation documents my completion of the TryHackMe Phishing Analysis Fundamentals room. The lab focused on understanding email protocols, header analysis, and identifying phishing indicators.
 
- Learning Objectives
+### Learning Objectives
 - Understand SMTP, POP3, and IMAP email protocols
 - Analyze email headers for phishing indicators
 - Identify suspicious email characteristics
