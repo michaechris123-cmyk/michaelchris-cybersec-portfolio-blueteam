@@ -38,7 +38,7 @@ This investigation documents my completion of the TryHackMe Phishing Analysis Fu
 - Authentication results (SPF, DKIM, DMARC) help verify email legitimacy
 - Multiple analysis tools should be used for validation
 
-## 📚 References
+##  References
 - [TryHackMe Room](https://tryhackme.com/room/phishingemails1tryoe)
 - [Email Header Analysis Guide](https://www.cisco.com/c/en/us/about/security-center/email-header-analysis.html)
 
