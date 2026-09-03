@@ -10,7 +10,7 @@ This folder contains screenshots from my Phishing Analysis Fundamentals investig
 | [use-message-source-to-view.png](use-message-source-to-view.png) |  use message souce to view the full raw message |
 | [2-originating-ip.png](2-originating-ip.png) | X-Originating-IP identified |
 | [3-raw-message-source.png](3-raw-message-source.png) | Full raw message source |
-| [we-use-from-base-64-to-encode.png](we-use-from-base-64-to-encode.png) | because its a base64 we will select from base64 |
+| [we-use-from-base-64-to-encode.png](we-use-from-base-64-to-encode.png) | upload the base64 to cyberchef to analyze the raw file by using from base64 option |
 | [4-cyberchef-decoding.png](4-cyberchef-decoding.png) | CyberChef Base64 decoding |
 | [5-decoded-pdf.png](5-decoded-pdf.png) | PDF structure confirmed |
 | [6-authentication-results.png](6-authentication-results.png) | SPF/DKIM/DMARC results |
