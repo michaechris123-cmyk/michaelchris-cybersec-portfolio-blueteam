@@ -8,6 +8,8 @@ This folder contains screenshots from my Phishing Analysis Fundamentals investig
 |------------|-------------|
 | [1-raw-email-source.png](1-raw-email-source.png) | Complete raw email headers |
 | [2-originating-ip.png](2-originating-ip.png) | X-Originating-IP identified |
+| [use-message-source-to-view.png](use-message-source-to-view.png) | message source brings the bigger detail |
+| [we-use-from-base-64-to-encode.png](we-use-from-base-64-to-encode.png) | to encode the base 64 and view raw messages |
 | [3-raw-message-source.png](3-raw-message-source.png) | Full raw message source |
 | [4-cyberchef-decoding.png](4-cyberchef-decoding.png) | CyberChef Base64 decoding |
 | [5-decoded-pdf.png](5-decoded-pdf.png) | PDF structure confirmed |
