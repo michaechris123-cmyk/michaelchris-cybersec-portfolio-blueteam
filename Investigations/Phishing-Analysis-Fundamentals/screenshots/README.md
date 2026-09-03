@@ -13,7 +13,7 @@ This folder contains screenshots from my Phishing Analysis Fundamentals investig
 | [we-use-from-base-64-to-encode.png](we-use-from-base-64-to-encode.png) | upload the base64 to cyberchef to analyze the raw file by using from base64 option |
 | [4-cyberchef-decoding.png](4-cyberchef-decoding.png) | CyberChef Base64 decoding |
 | [5-decoded-pdf.png](5-decoded-pdf.png) | PDF structure confirmed |
-| [6-authentication-results.png](6-authentication-results.png) | SPF/DKIM/DMARC results |
+| [6-authentication-results.png](6-authentication-results.png) | SPF/DKIM/DMARC results ***(lab 3-another email)*** |
 | [7-defanged-iocs.png](7-defanged-ip.png) | Defanged IOCs in report |
 
 ##  Tools Used
