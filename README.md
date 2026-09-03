@@ -38,7 +38,7 @@ I am an aspiring Security Operations Center (SOC) Analyst based in Kenya, buildi
 - SIEM Query Writing
 
 ##  Connect With Me
--  [LinkedIn](www.linkedin.com/in/chris-michael-ochieng-995b39322)
+-  [LinkedIn](https://www.linkedin.com/in/chris-michael-ochieng-995b39322/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLphoxirfSWuhsbVKHGRkOA%3D%3D)
 -  [TryHackMe](https://tryhackme.com/p/michaechris123)
 -  michaechris123@gmail.com
 
