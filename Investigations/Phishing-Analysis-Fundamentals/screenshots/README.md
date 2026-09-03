@@ -1,31 +1,18 @@
-
 # Screenshots - Phishing Analysis Fundamentals
 
 This folder contains screenshots from my Phishing Analysis Fundamentals investigation.
 
 ##  Investigation Screenshots
 
-### Screenshot 1: Raw Email Headers
-![Raw Email Headers](1-raw-email-source.png)
-*Complete raw email headers showing sender, recipient, and routing information*
-
-### Screenshot 2: Originating IP
-![Originating IP](2-originating-ip.png)
-*X-Originating-IP identified in the raw email source*
-
-### Screenshot 3: Raw Message Source
-![Raw Message Source](3-raw-message-source.png)
-*Full raw message source showing email headers and body*
-
-### Screenshot 4: CyberChef Decoding
-![CyberChef Decoding](4-cyberchef-decoding.png)
-*CyberChef used to decode Base64 encoded PDF attachment*
-
-### Screenshot 5: Decoded PDF
-![Decoded PDF](5-decoded-pdf.png)
-*Decoded PDF structure confirmed with %PDF-1.6 header*
-
----
+| Screenshot | Description |
+|------------|-------------|
+| [1-raw-email-source.png](1-raw-email-source.png) | Complete raw email headers |
+| [2-originating-ip.png](2-originating-ip.png) | X-Originating-IP identified |
+| [3-raw-message-source.png](3-raw-message-source.png) | Full raw message source |
+| [4-cyberchef-decoding.png](4-cyberchef-decoding.png) | CyberChef Base64 decoding |
+| [5-decoded-pdf.png](5-decoded-pdf.png) | PDF structure confirmed |
+| [6-authentication-results.png](6-authentication-results.png) | SPF/DKIM/DMARC results |
+| [7-defanged-iocs.png](7-defanged-ip.png) | Defanged IOCs in report |
 
 ##  Tools Used
 - TryHackMe AttackBox
@@ -37,6 +24,7 @@ This folder contains screenshots from my Phishing Analysis Fundamentals investig
 - **Attachment Found:** `zmqpalgh.pdf` (Base64 encoded)
 - **PDF Header:** `%PDF-1.6`
 - **PDF ID:** `<36C74F91D8307D4481492498DE25FCDB>`
+- **Authentication:** SPF=pass, DKIM=pass, DMARC=pass **(lab 3)**
 
 ---
 *Screenshots from TryHackMe Phishing Analysis Fundamentals lab*
