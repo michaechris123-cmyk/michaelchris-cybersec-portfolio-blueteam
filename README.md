@@ -20,7 +20,7 @@ I am an aspiring Security Operations Center (SOC) Analyst based in Kenya, buildi
 ##  Completed Investigations
 
 ###  Phishing Analysis Fundamentals
-[View Investigation Report](Investigations/Phishing-Analysis-Fundamentals/README.md)
+[View Investigation Report](Investigations/Phishing-Analysis-Fundamentals/screenshots/README.md)
 
 **Summary:** Analyzed a phishing email, decoded Base64 PDF attachment, and identified Indicators of Compromise (IOCs).
 
