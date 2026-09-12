@@ -1,4 +1,4 @@
-# SOC Analyst Portfolio - Kenya 🇰🇪
+# My SOC Analyst Portfolio - Kenya 🇰🇪
 
 ##  About Me
 I am an aspiring Security Operations Center (SOC) Analyst based in Kenya, building hands-on cybersecurity skills through practical investigations and labs.
